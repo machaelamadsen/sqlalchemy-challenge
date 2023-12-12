@@ -1,1 +1,1 @@
-# sqlalchemy-challenge
+In this assignment I am acting as if I'm planning a trip to Honolulu. For planning I am doing a climate analysis. I used SQLAlchemy ORM queries, Pandas, and Matplotlib in part 1. For part 1 I used a jupyter notebook to explore the data. I looked at the rainfall and temperature over a range of dates. In part 2 I used Flask to create routes in a Flask API. This can be used to explore the same weather data.
